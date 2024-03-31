@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         //Kамола начала делать свой таск
-        // Сделал ревью кода камолы
+        // Сделал ревью кода Камолы
     }
 }
